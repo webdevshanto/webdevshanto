@@ -10,7 +10,7 @@
 
 ## 🚀 About Me:
 
-I'm MD. Sakibul Hasan Shanto, a Full-Stack Developer passionate about building scalable and user-friendly web applications. I love turning complex problems into simple, elegant solutions using clean code and modern technologies.
+I'm MD. Sakibul Hasan Shanto, a passionate Full-Stack Developer about building scalable and user-friendly web applications. I love turning complex problems into simple, elegant solutions using clean code and modern technologies.
 
 I work with both frontend and backend to deliver complete end-to-end solutions. My focus is on writing maintainable code, following best practices, and ensuring 100% client satisfaction through clear communication and timely delivery in every project I work on.
 
@@ -22,7 +22,7 @@ I believe in continuous learning and sharing knowledge with the community. Wheth
 - 🌱 **Continuously Learning:** Modern web development, TypeScript, REST API design, and system architecture
 - 🎯 **Goal:** To build impactful, scalable solutions that solve real-world problems and deliver measurable value to users and businesses
 - 💬 **Ask Me About:** React, Node.js, Express, TypeScript, Prisma, PostgreSQL, REST API, Git, and more
-- 📧 **Reach Me At:** your.email@example.com
+- 📧 **Reach Me At:** webdevshanto2007@outlook.com
 - 💻 **Open To:** Freelance projects, remote work, collaborations, and job opportunities
 - 🤝 **For Clients:** Available for client projects - from building new applications to improving existing ones. Let's discuss your ideas!
 - 🎙️ **Pronouns:** He/Him
