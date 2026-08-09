@@ -19,23 +19,14 @@ I believe in continuous learning and sharing knowledge with the community. Wheth
 ### 💼 What I Do:
 
 - 🔭 **Currently Working On:** Full-stack web applications with React, Node.js, Express, TypeScript, PostgreSQL, and more
-- 
 - 🌱 **Continuously Learning:** Modern web development, TypeScript, REST API design, and system architecture
-- 
 - 🎯 **Goal:** To build impactful, scalable solutions that solve real-world problems and deliver measurable value to users and businesses
-- 
 - 💬 **Ask Me About:** React, Node.js, Express, TypeScript, Prisma, PostgreSQL, REST API, Git, and more
-- 
 - 📧 **Reach Me At:** your.email@example.com
-- 
 - 💻 **Open To:** Freelance projects, remote work, collaborations, and job opportunities
-- 
 - 🤝 **For Clients:** Available for client projects - from building new applications to improving existing ones. Let's discuss your ideas!
-- 
 - 🎙️ **Pronouns:** He/Him
-- 
 - 🧠 **Fun Facts:**
-- 
   - I've fixed bugs in production at 3 AM, but I still can't figure out why my code works on my machine and not on the server! 🤷‍♂️💻
   - I can explain the entire JavaScript event loop, but I still forget to add semicolons sometimes! 😅
   - I run on coffee and code, but somehow my code still bugs more than my coffee machine! ☕💻
